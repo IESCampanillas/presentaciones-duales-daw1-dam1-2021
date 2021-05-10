@@ -61,9 +61,9 @@ Cada alumno debe enlazar con el repositorio donde tiene su presentación.
 
 ## Tiempo para la presentación
 
-La presentación durará un mínimo de 15 minutos y un máximo de 20, dejando 5 minutos para un turno de preguntas.
+La presentación durará aproximadamente 5 minutos, dejando otros 5 minutos para un turno de preguntas.
 
-Los alumnos de una misma empresa deberán estar juntos a la hora que le toque al primero de esa empresa para poder hablar juntos de sobre la misma. Por ejemplo, todos los alumnos de Viewnext deberán estar presentes a las 10:00h ya que esa es la hora a la que está citado el primer alumno de Viewnext.
+Los alumnos de una misma empresa deberán estar juntos a la hora que le toque al primero de esa empresa para poder hablar juntos sobre la misma. Por ejemplo, todos los alumnos de Accenture deberán estar presentes a las 10:15h ya que esa es la hora a la que está citado el primer alumno de dicha empresa.
 
 ## Contenido de la presentación
 
@@ -76,6 +76,7 @@ La presentación debe tener, como mínimo, el siguiente contenido:
 * Valoración de la experiencia dual por parte del alumno.
 
 ## Formato de la presentación
+La presentación debe seguir las pautas explicadas en el módulo de Entornos de Desarrollo.
 
 Se puede utilizar cualquier herramienta para elaborar la presentación. El alumno se puede apoyar en material multimedia si lo considera oportuno.
 
