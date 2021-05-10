@@ -6,33 +6,32 @@ Horarios, índices a los repositorios de alumnos y normas para las presentacione
 
 ## Índice
 
-* [Cuadrante horario de las presentaciones](#cuadrante-horario-de-las-presentaciones)
-* [Índice a los repositorios con las presentaciones](#índice-a-los-repositorios-con-las-presentaciones)
+* [Cuadrante horario de las presentaciones con índices a los repositorios](#cuadrante-horario-de-las-presentaciones-con-índices-a-los-repositorios)
 * [Tiempo para la presentación](#tiempo-para-la-presentación)
 * [Contenido de la presentación](#contenido-de-la-presentación)
 * [Formato de la presentación](#formato-de-la-presentación)
 * [Lugar de la presentación](#lugar-de-la-presentación)
 
-## Cuadrante horario de las presentaciones
-
-El cuadrante horario de las presentaciones se puede descargar en formato pdf en el siguiente enlace:
-
-* [calendario_exposiciones_duales_1dawdam_2019.pdf](calendario_exposiciones_duales_1dawdam_2019.pdf)
-
-## Índice a los repositorios con las presentaciones
+## Cuadrante horario de las presentaciones con índices a los repositorios
 
 Cada alumno debe enlazar con el repositorio donde tiene su presentación.
 
-### Lunes 27
+### Lunes 24 de mayo de 2021
+#### Accenture
+##### 1ºdam
+* [Buendía López, Jairo]()
+* [Gutiérrez Ramírez, Jesús María]()
+* [López Pérez, María de la Cruz]()
+##### 1ºdaw
+* [Mancera Taboada, Juan Pedro]()
 
-* [Sevilla Ruiz, Borja – Solbyte](https://github.com/bsevrui/Presentaci-n-Dual)
-* [Leiva Brenes, Fernando – Properly](https://github.com/FernandoLeivaBrenes/presentacion2019_05_27)
-* [Herrera Fonseca, Antonio – Avanade]()
-* [Jiménez Quintana, José Daniel – Avanade](https://github.com/danieljimenezquintana/Presentacion-Empresa)
-* [Lerible García, Nicolás – Tecnilógica](https://github.com/nicolaslerible/presentacionempresa)
-* [Valverde Garcia, Samuel - Tecnilógica](https://github.com/samuelvalverde28/presentacion1DAW)
-* [García Molina, Jorge - Tecnilógica](https://github.com/jorgegarcia1996/PresentacionEmpresa)
-* [Aragón Rodríguez, Rafael - Tecnilógica](https://github.com/rafaelaragon/presentaciones-1-DAM)
+#### Viewnext
+* [Aranda Jiménez, Francisco Javier]()
+* [Gómez Becerra, Daniela]()
+* [Morón Jurado, José Manuel]()
+* [Olalla Pérez, Jesús María]()
+* [Riveros Racero, Francisco Javier]()
+
 
 ### Martes 28
 
