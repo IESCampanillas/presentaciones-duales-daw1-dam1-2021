@@ -33,28 +33,31 @@ Cada alumno debe enlazar con el repositorio donde tiene su presentación.
 * 11:45h [Olalla Pérez, Jesús María]()
 * 11:55h [Riveros Racero, Francisco Javier]()
 
+### Martes 25 de mayo de 2021 - 1ºdam
+#### Mayoral
+* 10:15h [De Abrisqueta Rangel, Ander]()
+* 10:25h [Reyes Podadera, Pablo Jesús]()
 
-### Martes 28
+#### Dekra
+* 10:35h [García Gómez, Sergio]()
+* 10:45h [Morales Aragón, Marcos]()
 
-* [Pastushenko, Román - Future Connections](https://github.com/romanpastu/Presentacion-Dual-1oDaw)
-* [Pacheco Matas, Rubén - Future Connections](https://github.com/rubenpachecomatas/Presentacion-Dual)
-* [Gómez Peña, Alberto – Viewnext](https://github.com/albertogomezp/presentacionDUAL)
-* [Pérez Molina, Iván - Viewnext](https://github.com/ivanperezmolina/presentaciondual)
-* [Perea Ropero, Mercedes – Viewnext](https://github.com/mmercedesperea/Presentacion_Dual)
-* [Haller Ríos, Lino - Viewnext](https://github.com/LinoHallerRios/DUAL)
-* [Domínguez Barrientos, Rosa María - Viewnext](https://github.com/rosadominguez/PresentacionDUAL)
-* [Del Pino Heredia, Laura - Viewnext](https://github.com/lauradelpino24/Presentacion-Dual)
+#### Rocketfy
+* 10:55h [Salmerón Robles, Gonzalo José]()
+* 11:05h [Sevilla Valderrama, Fernando Iván]()
 
-### Miércoles 29
+#### Properly
+* 11:15h [Andrés Domínguez, Javier]()
 
-* [Romero Medina, Francisco José - Freepik](https://github.com/fromero98/PresentacionDual)
-* [Campos Vega, Álvaro – Dekra](https://github.com/AlvaroCamposVega/Presentacion-FP-DUAL-2019)
-* [Cardoso Canillas, Samuel - DXC](https://github.com/samuelcardoso21/Presentacion-dual)
-* [Robles Bastida, José – CGI](https://github.com/Jose-Robles/Presentation-FP-DUAL-2019)
-* [Montes Expósito, Rafael – Rocketfy](https://github.com/rafaelmontes8/presentaciondual)
-* [Gómez Martín, José María – Rocketfy](https://github.com/josemariagomez/exposicion-dual)
-* [Morales Conejo, Alejandro – Indra](https://github.com/AlejandroMoralesConejo/presentacionDual)
-* [Galera García, José Ángel – Indra](https://github.com/joseangelgalera/Presentacion-FP-Dual)
+#### TopDigital
+* 11:45h [Egea Hermoso, Adrián]()
+
+#### Vicox
+* 11:55h [Estrada Cobo, José Manuel]()
+
+#### Securekids
+* 12:05h [Millán Rebollo, Noel]()
+
 
 ## Tiempo para la presentación
 
