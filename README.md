@@ -19,18 +19,19 @@ Cada alumno debe enlazar con el repositorio donde tiene su presentación.
 ### Lunes 24 de mayo de 2021
 #### Accenture
 ##### 1ºdam
-* [Buendía López, Jairo]()
-* [Gutiérrez Ramírez, Jesús María]()
-* [López Pérez, María de la Cruz]()
+* 10:15h [Buendía López, Jairo]()
+* 10:25h [Gutiérrez Ramírez, Jesús María]()
+* 10:35h [López Pérez, María de la Cruz]()
 ##### 1ºdaw
-* [Mancera Taboada, Juan Pedro]()
+* 10:45h [Mancera Taboada, Juan Pedro]()
 
 #### Viewnext
-* [Aranda Jiménez, Francisco Javier]()
-* [Gómez Becerra, Daniela]()
-* [Morón Jurado, José Manuel]()
-* [Olalla Pérez, Jesús María]()
-* [Riveros Racero, Francisco Javier]()
+##### 1ºdaw
+* 10:55h [Aranda Jiménez, Francisco Javier]()
+* 11:05h [Gómez Becerra, Daniela]()
+* 11:15h [Morón Jurado, José Manuel]()
+* 11:45h [Olalla Pérez, Jesús María]()
+* 11:55h [Riveros Racero, Francisco Javier]()
 
 
 ### Martes 28
