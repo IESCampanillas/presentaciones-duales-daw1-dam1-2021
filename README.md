@@ -30,7 +30,7 @@ Cada alumno debe enlazar con el repositorio donde tiene su presentación.
 * 11:05h [Gómez Becerra, Daniela]()
 * 11:15h [Morón Jurado, José Manuel]()
 * 11:45h [Olalla Pérez, Jesús María]()
-* 11:55h [Riveros Racero, Francisco Javier]()
+* 11:55h [Riveros Racero, Francisco Javier](https://github.com/FJ-Riveros)
 
 ### Martes 25 de mayo de 2021 - 1ºDAM
 #### Mayoral
