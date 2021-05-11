@@ -17,22 +17,22 @@ Cada alumno debe enlazar con el repositorio donde tiene su presentación.
 
 ### Lunes 24 de mayo de 2021
 #### Accenture
-##### 1ºdam
+##### 1ºDAM
 * 10:15h [Buendía López, Jairo]()
 * 10:25h [Gutiérrez Ramírez, Jesús María]()
 * 10:35h [López Pérez, María de la Cruz]()
-##### 1ºdaw
+##### 1ºDAW
 * 10:45h [Mancera Taboada, Juan Pedro]()
 
 #### Viewnext
-##### 1ºdaw
+##### 1ºDAW
 * 10:55h [Aranda Jiménez, Francisco Javier]()
 * 11:05h [Gómez Becerra, Daniela]()
 * 11:15h [Morón Jurado, José Manuel]()
 * 11:45h [Olalla Pérez, Jesús María]()
 * 11:55h [Riveros Racero, Francisco Javier]()
 
-### Martes 25 de mayo de 2021 - 1ºdam
+### Martes 25 de mayo de 2021 - 1ºDAM
 #### Mayoral
 * 10:15h [De Abrisqueta Rangel, Ander]()
 * 10:25h [Reyes Podadera, Pablo Jesús]()
