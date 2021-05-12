@@ -38,7 +38,7 @@ Cada alumno debe enlazar con el repositorio donde tiene su presentación.
 * 11:45h [Olalla Pérez, Jesús María]()
 * 11:55h [Riveros Racero, Francisco Javier](https://github.com/FJ-Riveros)
 
-### Martes 25 de mayo de 2021 - 1ºDAM
+### :calendar: Martes 25 de mayo de 2021 - 1ºDAM
 
 <img height="30px" src="mayoral.svg">
 
