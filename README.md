@@ -87,7 +87,7 @@ Cada alumno debe enlazar con el repositorio donde tiene su presentación.
 
 <hr>
 
-## :clock: Tiempo para la presentación
+## :stopwatch: Tiempo para la presentación
 
 La presentación durará aproximadamente 5 minutos, dejando otros 5 minutos para un turno de preguntas.
 
