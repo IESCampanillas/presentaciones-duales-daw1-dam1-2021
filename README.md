@@ -15,7 +15,7 @@ Horarios, índices a los repositorios de alumnos y normas para las presentacione
 
 Cada alumno debe enlazar con el repositorio donde tiene su presentación.
 
-### Lunes 24 de mayo de 2021
+### :calendar: Lunes 24 de mayo de 2021
 
 <img height="40px" src="accenture.svg">
 
