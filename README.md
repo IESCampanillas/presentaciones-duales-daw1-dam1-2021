@@ -27,7 +27,9 @@ Cada alumno debe enlazar con el repositorio donde tiene su presentación.
 ##### 1ºDAW
 * 10:45h [Mancera Taboada, Juan Pedro]()
 
-<img height="40px" src="viewnext.png">
+<hr>
+
+<img height="30px" src="viewnext.png">
 
 ##### 1ºDAW
 * 10:55h [Aranda Jiménez, Francisco Javier]()
@@ -37,7 +39,9 @@ Cada alumno debe enlazar con el repositorio donde tiene su presentación.
 * 11:55h [Riveros Racero, Francisco Javier](https://github.com/FJ-Riveros)
 
 ### Martes 25 de mayo de 2021 - 1ºDAM
-#### Mayoral
+
+<img height="30px" src="mayoral.svg">
+
 * 10:15h [De Abrisqueta Rangel, Ander]()
 * 10:25h [Reyes Podadera, Pablo Jesús]()
 
