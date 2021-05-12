@@ -38,6 +38,8 @@ Cada alumno debe enlazar con el repositorio donde tiene su presentación.
 * 11:45h [Olalla Pérez, Jesús María]()
 * 11:55h [Riveros Racero, Francisco Javier](https://github.com/FJ-Riveros)
 
+<hr>
+
 ### :calendar: Martes 25 de mayo de 2021 - 1ºDAM
 
 <img height="30px" src="mayoral.svg">
@@ -59,7 +61,10 @@ Cada alumno debe enlazar con el repositorio donde tiene su presentación.
 * 10:55h [Salmerón Robles, Gonzalo José]()
 * 11:05h [Sevilla Valderrama, Fernando Iván]()
 
-#### Properly
+<hr>
+
+<img height="32px" src="properly.svg">
+
 * 11:15h [Andrés Domínguez, Javier]()
 
 #### TopDigital
