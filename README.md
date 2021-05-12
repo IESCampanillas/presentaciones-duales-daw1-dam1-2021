@@ -112,7 +112,7 @@ Independientemente de la herramienta utilizada para crear y mostrar la presentac
 
 Cualquier material utilizado en la presentación debe estar disponible desde el repositorio de GitHub: presentación original, presentación en formato pdf, enlaces a videos, etc.
 
-## Lugar de la presentación
+## :school: Lugar de la presentación
 
 Las presentaciones tendrán lugar en el **salón de actos de la incubadora** sita en C/ Frederick Terman,3. 29590, PTA.
 
