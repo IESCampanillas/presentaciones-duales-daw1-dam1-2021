@@ -69,7 +69,7 @@ Cada alumno debe enlazar con el repositorio donde tiene su presentación.
 
 <hr>
 
-<img height="44px" src="topdigital.png">
+<img height="50px" src="topdigital.png">
 
 * 11:45h [Egea Hermoso, Adrián](https://github.com/AdrianEgeaHermoso/Presentacion_TopDigital.git)
 
