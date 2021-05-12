@@ -17,7 +17,7 @@ Cada alumno debe enlazar con el repositorio donde tiene su presentación.
 
 ### :calendar: Lunes 24 de mayo de 2021
 
-<img height="40px" src="accenture.svg">
+<img height="36px" src="accenture.svg">
 
 ##### 1ºDAM
 
@@ -29,7 +29,7 @@ Cada alumno debe enlazar con el repositorio donde tiene su presentación.
 
 <hr>
 
-<img height="30px" src="viewnext.png">
+<img height="28px" src="viewnext.png">
 
 ##### 1ºDAW
 * 10:55h [Aranda Jiménez, Francisco Javier]()
@@ -45,11 +45,17 @@ Cada alumno debe enlazar con el repositorio donde tiene su presentación.
 * 10:15h [De Abrisqueta Rangel, Ander]()
 * 10:25h [Reyes Podadera, Pablo Jesús]()
 
-#### Dekra
+<hr>
+
+<img height="30px" src="dekra.svg">
+
 * 10:35h [García Gómez, Sergio]()
 * 10:45h [Morales Aragón, Marcos]()
 
-#### Rocketfy
+<hr>
+
+<img height="30px" src="rocketfy.svg">
+
 * 10:55h [Salmerón Robles, Gonzalo José]()
 * 11:05h [Sevilla Valderrama, Fernando Iván]()
 
