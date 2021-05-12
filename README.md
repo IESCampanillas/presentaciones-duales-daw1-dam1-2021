@@ -17,9 +17,7 @@ Cada alumno debe enlazar con el repositorio donde tiene su presentación.
 
 ### Lunes 24 de mayo de 2021
 
-#### Accenture
-
-<img height="60px" src="accenture.svg">
+<img height="50px" src="accenture.svg">
 
 ##### 1ºDAM
 
