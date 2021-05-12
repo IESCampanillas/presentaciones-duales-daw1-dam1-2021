@@ -16,8 +16,13 @@ Horarios, índices a los repositorios de alumnos y normas para las presentacione
 Cada alumno debe enlazar con el repositorio donde tiene su presentación.
 
 ### Lunes 24 de mayo de 2021
+
 #### Accenture
+
+<img height="60px" src="accenture.svg">
+
 ##### 1ºDAM
+
 * 10:15h [Buendía López, Jairo]()
 * 10:25h [Gutiérrez Ramírez, Jesús María]()
 * 10:35h [López Pérez, María de la Cruz]()
