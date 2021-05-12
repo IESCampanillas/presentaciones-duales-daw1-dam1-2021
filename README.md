@@ -54,7 +54,7 @@ Cada alumno debe enlazar con el repositorio donde tiene su presentación.
 
 <hr>
 
-<img height="30px" src="rocketfy.svg">
+<img height="32px" src="rocketfy.svg">
 
 * 10:55h [Salmerón Robles, Gonzalo José]()
 * 11:05h [Sevilla Valderrama, Fernando Iván]()
