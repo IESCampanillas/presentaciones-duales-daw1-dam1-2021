@@ -17,7 +17,7 @@ Cada alumno debe enlazar con el repositorio donde tiene su presentación.
 
 ### Lunes 24 de mayo de 2021
 
-<img height="50px" src="accenture.svg">
+<img height="40px" src="accenture.svg">
 
 ##### 1ºDAM
 
@@ -27,7 +27,8 @@ Cada alumno debe enlazar con el repositorio donde tiene su presentación.
 ##### 1ºDAW
 * 10:45h [Mancera Taboada, Juan Pedro]()
 
-#### Viewnext
+<img height="40px" src="viewnext.png">
+
 ##### 1ºDAW
 * 10:55h [Aranda Jiménez, Francisco Javier]()
 * 11:05h [Gómez Becerra, Daniela]()
