@@ -93,7 +93,7 @@ La presentación durará aproximadamente 5 minutos, dejando otros 5 minutos para
 
 Los alumnos de una misma empresa deberán estar juntos a la hora que le toque al primero de esa empresa para poder hablar juntos sobre la misma. Por ejemplo, todos los alumnos de Accenture deberán estar presentes a las 10:15h ya que esa es la hora a la que está citado el primer alumno de dicha empresa.
 
-## Contenido de la presentación
+## :open_file_folder: Contenido de la presentación
 
 La presentación debe tener, como mínimo, el siguiente contenido:
 
@@ -103,7 +103,7 @@ La presentación debe tener, como mínimo, el siguiente contenido:
 * Conocimientos adquiridos por cada módulo profesional.
 * Valoración de la experiencia dual por parte del alumno.
 
-## Formato de la presentación
+## :bookmark_tabs: Formato de la presentación
 La presentación debe seguir las pautas explicadas en el módulo de Entornos de Desarrollo.
 
 Se puede utilizar cualquier herramienta para elaborar la presentación. El alumno se puede apoyar en material multimedia si lo considera oportuno.
