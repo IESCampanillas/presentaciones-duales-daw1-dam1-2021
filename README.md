@@ -33,8 +33,7 @@ Cada alumno debe enlazar con el repositorio donde tiene su presentación.
 
 ##### 1ºDAW
 * 10:55h [Aranda Jiménez, Francisco Javier]()
-* 11:05h [Gómez Becerra, Daniela]()
-* 11:15h [Morón Jurado, José Manuel]()
+* 11:05h [Morón Jurado, José Manuel]()
 * 11:45h [Olalla Pérez, Jesús María]()
 * 11:55h [Riveros Racero, Francisco Javier](https://github.com/FJ-Riveros)
 
@@ -65,25 +64,25 @@ Cada alumno debe enlazar con el repositorio donde tiene su presentación.
 
 <img height="32px" src="properly.png">
 
-* 11:15h [Andrés Domínguez, Javier]()
+* 11:45h [Andrés Domínguez, Javier]()
 
 <hr>
 
 <img height="50px" src="topdigital.png">
 
-* 11:45h [Egea Hermoso, Adrián](https://github.com/AdrianEgeaHermoso/Presentacion_TopDigital.git)
+* 12:00h [Egea Hermoso, Adrián](https://github.com/AdrianEgeaHermoso/Presentacion_TopDigital.git)
 
 <hr>
 
 <img height="30px" src="vicox.png">
 
-* 11:55h [Estrada Cobo, José Manuel]()
+* 12:15h [Estrada Cobo, José Manuel]()
 
 <hr>
 
 <img height="42px" src="securekids.jpg">
 
-* 12:05h [Millán Rebollo, Noel]()
+* 12:30h [Millán Rebollo, Noel]()
 
 <hr>
 
