@@ -70,19 +70,19 @@ Cada alumno debe enlazar con el repositorio donde tiene su presentación.
 
 <img height="50px" src="topdigital.png">
 
-* 12:00h [Egea Hermoso, Adrián](https://github.com/AdrianEgeaHermoso/Presentacion_TopDigital.git)
+* 11:55h [Egea Hermoso, Adrián](https://github.com/AdrianEgeaHermoso/Presentacion_TopDigital.git)
 
 <hr>
 
 <img height="30px" src="vicox.png">
 
-* 12:15h [Estrada Cobo, José Manuel]()
+* 12:05h [Estrada Cobo, José Manuel]()
 
 <hr>
 
 <img height="42px" src="securekids.jpg">
 
-* 12:30h [Millán Rebollo, Noel]()
+* 12:15h [Millán Rebollo, Noel]()
 
 <hr>
 
