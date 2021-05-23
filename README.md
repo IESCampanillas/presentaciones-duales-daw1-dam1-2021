@@ -76,7 +76,7 @@ Cada alumno debe enlazar con el repositorio donde tiene su presentación.
 
 <img height="30px" src="vicox.png">
 
-* 12:05h [Estrada Cobo, José Manuel]()
+* 12:05h [Estrada Cobo, José Manuel](https://github.com/JoseEstradaC/PresentacionDUAL-Vicox)
 
 <hr>
 
