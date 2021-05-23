@@ -21,7 +21,7 @@ Cada alumno debe enlazar con el repositorio donde tiene su presentación.
 
 ##### 1ºDAM
 
-* 10:15h [Buendía López, Jairo]()
+* 10:15h [Buendía López, Jairo](https://github.com/jairobuendia/PresentacionDUAL-Accenture)
 * 10:25h [Gutiérrez Ramírez, Jesús María]()
 * 10:35h [López Pérez, María de la Cruz](https://github.com/mcruzlp/Presentaci_n_FPDual_Accenture.git)
 ##### 1ºDAW
