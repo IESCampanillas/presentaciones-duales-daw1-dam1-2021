@@ -82,7 +82,7 @@ Cada alumno debe enlazar con el repositorio donde tiene su presentación.
 
 <img height="42px" src="securekids.jpg">
 
-* 12:15h [Millán Rebollo, Noel]()
+* 12:15h [Millán Rebollo, Noel](https://github.com/NoelMillan/Presentacion-FPDUAL-SecureKids.git)
 
 <hr>
 
