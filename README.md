@@ -44,8 +44,8 @@ Cada alumno debe enlazar con el repositorio donde tiene su presentación.
 
 <img height="30px" src="mayoral.svg">
 
-* 10:15h [De Abrisqueta Rangel, Ander]()
-* 10:25h [Reyes Podadera, Pablo Jesús]()
+* 10:15h [De Abrisqueta Rangel, Ander](https://view.genial.ly/60a14430ac2e320d1b96d913/presentation-dual-mayoral)
+* 10:25h [Reyes Podadera, Pablo Jesús](https://view.genial.ly/60a14430ac2e320d1b96d913/presentation-dual-mayoral)
 
 <hr>
 
