@@ -25,7 +25,7 @@ Cada alumno debe enlazar con el repositorio donde tiene su presentación.
 * 10:25h [Gutiérrez Ramírez, Jesús María]()
 * 10:35h [López Pérez, María de la Cruz](https://github.com/mcruzlp/Presentaci_n_FPDual_Accenture.git)
 ##### 1ºDAW
-* 10:45h [Mancera Taboada, Juan Pedro]()
+* 10:45h [Mancera Taboada, Juan Pedro](https://github.com/juan2pedro/Presentacion-Dual-1)
 
 <hr>
 
