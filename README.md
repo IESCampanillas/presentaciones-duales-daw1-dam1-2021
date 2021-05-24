@@ -36,6 +36,7 @@ Cada alumno debe enlazar con el repositorio donde tiene su presentación.
 * 11:05h [Morón Jurado, José Manuel](https://github.com/JMMJ0/Presentaci-nn-DUAL)
 * 11:45h [Olalla Pérez, Jesús María]()
 * 11:55h [Riveros Racero, Francisco Javier](https://github.com/FJ-Riveros/Presentacion-Dual/blob/main/README.md)
+* [Presentación conjunta viewnext](https://view.genial.ly/60aa740a62e5860d87aec890/presentation-presentacion-tecnologia-digital)
 
 <hr>
 
