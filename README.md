@@ -52,7 +52,7 @@ Cada alumno debe enlazar con el repositorio donde tiene su presentación.
 <img height="30px" src="dekra.svg">
 
 * 10:35h [García Gómez, Sergio]()
-* 10:45h [Morales Aragón, Marcos]()
+* 10:45h [Morales Aragón, Marcos](https://github.com/MarcosMoralesAragon/Presentacion_Dekra)
 
 <hr>
 
