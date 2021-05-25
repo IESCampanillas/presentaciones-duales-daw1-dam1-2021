@@ -58,8 +58,8 @@ Cada alumno debe enlazar con el repositorio donde tiene su presentación.
 
 <img height="32px" src="rocketfy.svg">
 
-* 10:55h [Salmerón Robles, Gonzalo José]()
-* 11:05h [Sevilla Valderrama, Fernando Iván]()
+* 10:55h [Salmerón Robles, Gonzalo José](https://github.com/FESEVA/presentacion_rocketfy/blob/main/README.md)
+* 11:05h [Sevilla Valderrama, Fernando Iván](https://github.com/FESEVA/presentacion_rocketfy/blob/main/README.md)
 
 <hr>
 
