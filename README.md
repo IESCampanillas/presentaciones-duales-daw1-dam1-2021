@@ -65,7 +65,7 @@ Cada alumno debe enlazar con el repositorio donde tiene su presentación.
 
 <img height="32px" src="properly.png">
 
-* 11:45h [Andrés Domínguez, Javier]()
+* 11:45h [Andrés Domínguez, Javier](https://view.genial.ly/60c5db1885640d0dfac35fca/presentation-presentacion-asignatura)
 
 <hr>
 
